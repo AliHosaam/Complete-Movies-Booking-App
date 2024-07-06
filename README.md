@@ -96,3 +96,30 @@ Key Features:
    - @types/react: Version ~18.2.45
    - @types/react-native-vector-icons: Version ^6.4.18
 
+
+Screenshots: 
+
+   ![Image 94](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/1a6b257c-8faf-4a6d-90d7-d2ff6463411b)
+   ![Image 95](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/1fdeba8d-5e3c-4dbd-88cf-11f93a4746db)
+   ![Image 96](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/d6b136e5-0e33-4467-97be-f7557d04cd35)
+   ![Image 97](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/18df557a-1c0a-4b4b-9ec1-ae7cf0c7356d)
+   ![Image 98](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/b3e559ae-8abe-4d22-9860-dbfab25a2d92)
+   ![Image 99](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/2393769f-44d2-428a-9787-c40a99a1b922)
+   ![Image 100](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/e11116fe-8b8d-40b0-b9a3-508a23ff4870)
+   ![Image 101](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/2dbec7fe-0ff0-4888-ac19-f69f1b19d81f)
+   ![Image 102](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/278d2e63-acfe-4fcc-8dd0-b516dc902c79)
+   ![Image 103](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/887dae4e-2531-446e-a100-50808def5dea)
+   ![Image 104](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/b359e8dc-90f7-42eb-b412-46b0605123df)
+   ![Image 105](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/1727a160-1fef-4bdb-856b-bfa457fd0a59)
+   ![Image 106](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/8b287086-1066-4e7d-a1df-46481d4cc47b)
+   ![Image 107](https://github.com/AliHosaam/Fullstack-AI-Companion-WebApp/assets/137641254/b2c6f7a2-b0c4-4538-bb09-2763b7435f96)
+
+
+
+
+
+
+
+
+   
+  
